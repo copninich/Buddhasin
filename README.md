@@ -1,1 +1,1 @@
-# Thai-Buddha-Image-Classifier
+# Buddhasin พุทธศิลป์
